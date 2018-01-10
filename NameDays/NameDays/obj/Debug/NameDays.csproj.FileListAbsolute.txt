@@ -1,0 +1,7 @@
+D:\Ohjelmointi\namedays\NameDays\NameDays\bin\Debug\NameDays.exe.config
+D:\Ohjelmointi\namedays\NameDays\NameDays\bin\Debug\NameDays.exe
+D:\Ohjelmointi\namedays\NameDays\NameDays\bin\Debug\NameDays.pdb
+D:\Ohjelmointi\namedays\NameDays\NameDays\obj\Debug\NameDays.csprojResolveAssemblyReference.cache
+D:\Ohjelmointi\namedays\NameDays\NameDays\obj\Debug\NameDays.csproj.CoreCompileInputs.cache
+D:\Ohjelmointi\namedays\NameDays\NameDays\obj\Debug\NameDays.exe
+D:\Ohjelmointi\namedays\NameDays\NameDays\obj\Debug\NameDays.pdb

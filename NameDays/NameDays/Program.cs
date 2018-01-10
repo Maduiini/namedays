@@ -1,6 +1,9 @@
 ﻿using System;
+<<<<<<< HEAD
+=======
 using System.Collections.Generic;
 using System.Globalization;
+>>>>>>> 618efed96bab5672fe04985cbd8827bee6217b25
 using System.IO;
 
 namespace NameDays
