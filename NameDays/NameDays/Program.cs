@@ -1,10 +1,6 @@
 ﻿using System;
-<<<<<<< HEAD
-=======
-using System.Collections.Generic;
-using System.Globalization;
->>>>>>> 618efed96bab5672fe04985cbd8827bee6217b25
 using System.IO;
+
 
 namespace NameDays
 {
@@ -23,7 +19,7 @@ namespace NameDays
         /// <param name="args">parameters passed when run, to indicate which date is selected.</param>
         public static void Main(string[] args)
         {
-            
+
             if (args.Length <= 0)
             {
                 Console.WriteLine("Please specify a date as a parameter in format 'd.m.' ");
