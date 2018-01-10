@@ -1,0 +1,6 @@
+D:\Ohjelmointi\namedays\NameDays\NameDays\bin\Release\NameDays.exe.config
+D:\Ohjelmointi\namedays\NameDays\NameDays\bin\Release\NameDays.exe
+D:\Ohjelmointi\namedays\NameDays\NameDays\bin\Release\NameDays.pdb
+D:\Ohjelmointi\namedays\NameDays\NameDays\obj\Release\NameDays.csproj.CoreCompileInputs.cache
+D:\Ohjelmointi\namedays\NameDays\NameDays\obj\Release\NameDays.exe
+D:\Ohjelmointi\namedays\NameDays\NameDays\obj\Release\NameDays.pdb
